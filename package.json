@@ -1,7 +1,7 @@
 {
-  "name": "employeecms",
+  "name": "employeeDB",
   "version": "1.0.0",
-  "description": "A command-line application to input and record employee information using MySQL databases",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,8 @@
     "console.table": "^0.10.0",
     "dotenv": "^10.0.0",
     "inquirer": "^8.1.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0"
   },
   "devDependencies": {},
   "repository": {
@@ -23,7 +24,7 @@
     "inquirer",
     "MySQL",
     "command-line",
-    "node"
+    "nsode"
   ],
   "bugs": {
     "url": "https://github.com/lc-mar/manageyouremployeesgdangit/issues"
