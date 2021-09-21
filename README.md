@@ -1,6 +1,7 @@
 # Employee Tracker
 
 ## Description
+An application using mysql and node that a business owner can use to manage their employees. 
 
 ## User Story
 ```
